@@ -12,4 +12,4 @@ function readFileContent(filePath) {
     
 }
 
-readFileContent("./question1/temporary_file.text")
+readFileContent("./temporary_file.text")
